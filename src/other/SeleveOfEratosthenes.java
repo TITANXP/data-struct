@@ -1,4 +1,4 @@
-package algorithm.other;
+package other;
 
 /**
  * 生成素数序列： 埃拉托斯特尼筛法

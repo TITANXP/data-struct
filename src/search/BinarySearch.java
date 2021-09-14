@@ -1,6 +1,4 @@
-package algorithm.search;
-
-import algorithm.sort.QuickSort;
+package search;
 
 /**
  * 二分查找
